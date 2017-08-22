@@ -1,0 +1,9 @@
+@media (max-width: 1000px) {
+    .flex_pane_showing #client_body {
+        display: block;
+    }
+    .flex_pane_showing #col_messages,
+    .flex_pane_showing #col_flex {
+        height: 50%;
+    }
+}
